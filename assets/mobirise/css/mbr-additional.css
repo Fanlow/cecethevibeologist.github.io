@@ -1318,8 +1318,34 @@ body {
     padding: 0 1rem;
   }
 }
+.cid-qMvfvXm2CT {
+  background-color: #000000;
+  overflow: hidden !important;
+}
+.cid-qMvfvXm2CT .container-fluid {
+  padding: 0 5rem;
+}
+.cid-qMvfvXm2CT .animated-element {
+  color: #efefef;
+}
+.cid-qMvfvXm2CT .img-block {
+  align-self: center;
+}
+@media (max-width: 1199px) {
+  .cid-qMvfvXm2CT .mbr-figure img {
+    width: 100%;
+  }
+}
+@media (max-width: 767px) {
+  .cid-qMvfvXm2CT .container-fluid {
+    padding: 0 1rem;
+  }
+  .cid-qMvfvXm2CT .mbr-figure {
+    margin-top: 1rem;
+  }
+}
 .cid-qMu3ETcYEu {
-  padding-top: 60px;
+  padding-top: 0px;
   padding-bottom: 60px;
   background-color: #000000;
 }
