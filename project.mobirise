@@ -2181,7 +2181,7 @@
         {
           "_customTemplate": true,
           "_afterNavbarItem": false,
-          "_customHTML": "<iframe src=\"https://www.socialmediawall.io/wall/20757/\" width=\"1600px\" height=\"700px\"></iframe>\n",
+          "_customHTML": "<iframe src=\"https://www.socialmediawall.io/wall/20757/\" width=\"1700px\" height=\"700px\"></iframe>\n",
           "_customCSS": "/* Type valid CSS here */\n.my-image {\n  width: 100%;\n}",
           "alias": "code-editor",
           "_tags": [
@@ -2232,7 +2232,7 @@
         {
           "_customTemplate": true,
           "_afterNavbarItem": false,
-          "_customHTML": "<iframe src=\"https://www.socialmediawall.io/wall/20758/\" width=\"1600px\" height=\"700px\"></iframe>",
+          "_customHTML": "<iframe src=\"https://www.socialmediawall.io/wall/20758/\" width=\"1700px\" height=\"700px\"></iframe>",
           "_customCSS": "/* Type valid CSS here */\n.my-image {\n  width: 100%;\n}",
           "alias": "code-editor",
           "_tags": [
